@@ -4,9 +4,7 @@ Simple Encode Decode
 
 Example 1:
 
-amigo@amigo:~/Desktop$ cd 'Simple Enocde Decode'/
-amigo@amigo:~/Desktop/Simple Enocde Decode$ ls
-crypoptogram.py  README.txt
+
 amigo@amigo:~/Desktop/Simple Enocde Decode$ python3 crypoptogram.py 
 
 
