@@ -1,6 +1,6 @@
 #Nihat Najafov Python3.8
 #Pyhton3.8 Encoder Decoder Program
-import math
+
 print("""
 
 
